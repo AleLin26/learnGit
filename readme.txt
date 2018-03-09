@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes.
 Git add branch.
 fixed bug!
+I am add new function!
